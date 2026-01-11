@@ -10,5 +10,5 @@
 *Favorites* This webpage will display the stats of their favorite current driver and team(driver’s race starts, wins, podiums, poles, fastest laps, championships, best season points wise, biggest rivals, team’s championships, best cars, best season points wise, best drivers)
 
 New Wireframes
-
+https://www.canva.com/design/DAG-G65w1jE/hvGU7FZN5mIH61CmbYYOaA/edit?utm_content=DAG-G65w1jE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
